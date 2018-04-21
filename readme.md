@@ -1,1 +1,1 @@
-webscraping using selenium and beautifulsoup
+webscraping practice using selenium and beautifulsoup
